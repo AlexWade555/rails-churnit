@@ -46,3 +46,4 @@ Hosted on
 - [ ] User dashboard
 - [ ] Calendar integration
 - [ ] Export data via API
+# rails-churnit
