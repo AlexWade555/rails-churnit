@@ -47,3 +47,4 @@ Hosted on
 - [ ] Calendar integration
 - [ ] Export data via API
 # rails-churnit
+# rails-churnit
