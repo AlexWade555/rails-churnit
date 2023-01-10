@@ -281,7 +281,6 @@ DEPENDENCIES
   selenium-webdriver
   simple_form
   spring
-  sqlite3
   turbolinks (~> 5)
   tzinfo-data
   web-console (>= 4.1.0)
